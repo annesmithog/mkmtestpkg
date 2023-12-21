@@ -1,0 +1,8 @@
+README.md
+setup.py
+mkmtestpkg/__init__.py
+mkmtestpkg/main.py
+mkmtestpkg.egg-info/PKG-INFO
+mkmtestpkg.egg-info/SOURCES.txt
+mkmtestpkg.egg-info/dependency_links.txt
+mkmtestpkg.egg-info/top_level.txt
