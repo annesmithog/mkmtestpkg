@@ -7,4 +7,3 @@ A test package
 ```sh
 import mkmtestpkg
 ```
-
